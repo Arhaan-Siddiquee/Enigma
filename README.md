@@ -1,8 +1,14 @@
 # Enigma - Open Source Editor
 
 https://github.com/user-attachments/assets/818f4e79-425a-441d-8fc8-b6341b83c1be
+## 📺 Demo Video
+
+If the video is buffering, click below image to watch on YouTube
+##
+[![Watch the demo](https://github.com/user-attachments/assets/742970bc-06d7-47da-abad-db87c81766ae)](https://youtu.be/72QcvtMi8KY)
 
 
+##
 Enigma is a free, open-source design and prototyping tool that enables real-time collaboration, built using **TypeScript, Tailwind CSS, Fabric.js, and Canvas API**. It provides a seamless experience for designers and developers to create, edit, and share designs effortlessly.
 
 ## 🚀 Features
@@ -18,8 +24,7 @@ Enigma is a free, open-source design and prototyping tool that enables real-time
 
 - **Frontend:** TypeScript, Tailwind CSS
 - **Canvas Rendering:** Fabric.js, HTML5 Canvas API
-- **State Management:** React Context/Redux (if applicable)
-- **Backend (if applicable):** Firebase/Node.js (for real-time collaboration)
+- **Backend (if applicable):** LiveBlocks
 
 ## 📦 Installation
 
@@ -38,10 +43,6 @@ Start the development server:
 ```sh
 npm run dev
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork, create issues, and submit pull requests.
 
 ## 📄 License
 
